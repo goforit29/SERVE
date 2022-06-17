@@ -52,9 +52,9 @@ public class serve {
     }
     public Integer getStoreId() {
         return storeId;
-    }
+    }E
     public void setStoreId(Integer storeId) {
-        this.storeId = storedId;
+        this.storeId = storeId;
     }
     public Date getSysDate() {
         return sysDate;
